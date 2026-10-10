@@ -1,0 +1,19 @@
+
+# Secrets
+.env
+**/.env
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Frontend dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Local environment files
+.DS_Store
