@@ -17,3 +17,9 @@ dist/
 
 # Local environment files
 .DS_Store
+
+
+# Firebase private credentials - NEVER upload to GitHub
+Backend/serviceAccountKey.json
+**/serviceAccountKey.json
+**/*firebase-adminsdk*.json
